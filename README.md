@@ -38,7 +38,7 @@ Inspired by [this YouTube tutorial](https://youtu.be/iA1Ciu9vGHw?si=5jSzD85ewUhr
 ---
 
 ##  Files Included
-- `Costco_PowerBI.pbix` – Power BI dashboard file 
+- `[Costco_PowerBI.pbix](https://app.powerbi.com/groups/me/reports/78de1951-8d37-4260-b920-c9583191a88d/9747efb779b259aed315?experience=power-bi)` – Power BI dashboard link
 
 ---
 
