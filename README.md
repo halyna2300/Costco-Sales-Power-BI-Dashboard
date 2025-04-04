@@ -1,4 +1,3 @@
-# Costco-Sales-Power-BI-Dashboard
 <h1 align="center">Costco Sales Dashboard (Power BI)</h1>
 
 <p align="center">
